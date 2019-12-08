@@ -1,0 +1,106 @@
+=== Started 2018-09-03T14-44-14-389 ===
+[INFO ][14:44:14] 418 bad words loaded
+[WARN ][14:44:14] User account "Local Administrator" disabled
+[WARN ][14:44:14] User account "Local Moderator" disabled
+[WARN ][14:44:14] User account "Local User" disabled
+[INFO ][14:44:14] 0 user records loaded.
+[INFO ][14:44:14] 0 IP ban records loaded.
+[INFO ][14:44:14] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][14:44:14] WebSocket: ws
+[INFO ][14:44:14] Started stats server on port 88
+[INFO ][14:44:14] Listening on port 443
+[INFO ][14:44:14] Current game mode is Free For All
+[NONE ][14:44:14]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][14:45:19] CONNECTED 127.0.0.1:50180, origin: "file://"
+[NONE ][14:46:16] >mn 1 10
+[NONE ][14:46:16] Added 10 minions for 𝓩ᵉʳᵒˣˣ™💘一✖✖✖
+[NONE ][14:46:20] >ab 55
+[NONE ][14:46:20] Added 55 player bots
+[NONE ][15:41:56] DISCONNECTED 127.0.0.1:50180, code: 1000, reason: "Connection timeout", name: "𝓩ᵉʳᵒˣˣ™💘一✖✖✖"
+[NONE ][15:42:11] CONNECTED 127.0.0.1:50819, origin: "file://"
+[NONE ][15:59:21] >mere 1
+[WARN ][15:59:21] Invalid Command!
+[NONE ][15:59:24] >merge 1
+[WARN ][15:59:24] That player ID is non-existant!
+[NONE ][15:59:29] >pl
+[NONE ][15:59:29] 
+Current players: 56
+[NONE ][15:59:29] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][15:59:29]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK            
+[NONE ][15:59:29] ────────────────────────────────────────────────────────────────────────────────
+[NONE ][15:59:29]      12 | [BOT]           | ? |     1 |     53 | -6403,  3612 | ༺ЄⱤӨƝ༻_☢ḈL贏蒙ƬψƬ
+[NONE ][15:59:29]      13 | [BOT]           | ? |     1 |     10 |  -831,  5461 | Tristanator    
+[NONE ][15:59:29]      14 | [BOT]           | ? |     1 |     24 | -1705, -3080 | marshmello     
+[NONE ][15:59:29]      15 | [BOT]           | ? |     1 |     31 |  1130, -4045 | pika           
+[NONE ][15:59:29]      16 | [BOT]           | ? |     2 |     64 | -3075, -3258 | loco           
+[NONE ][15:59:29]      17 | [BOT]           | ? |    16 |   2343 |   -58,   385 | Shrek          
+[NONE ][15:59:29]      18 | [BOT]           | ? |     1 |     18 | -6056,  1147 | (复杂) yIyO      
+[NONE ][15:59:29]      19 | [BOT]           | ? |    13 |   6411 |  -120,  -145 | DaddyFleek     
+[NONE ][15:59:29]      20 | [BOT]           | ? |     2 |  14805 |   427,  1259 | Help4Help      
+[NONE ][15:59:29]      21 | [BOT]           | ? |     1 |     35 |  1920, -3221 | T-a-n-X-----SF 
+[NONE ][15:59:29]      22 | [BOT]           | ? |     3 |     79 |   907,  2090 | ᗯǤ🐯Krul       
+[NONE ][15:59:29]      23 | [BOT]           | ? |     3 |     67 |  -403,  1464 | ๖ۣۜDxxxxx爱情舌椹  
+[NONE ][15:59:29]      24 | [BOT]           | ? |     2 |     57 |  2672, -1531 | ⚔gσιηтнєνιяUS遊㊣
+[NONE ][15:59:29]      25 | [BOT]           | ? |     2 |     47 |  1539,  2373 | TeamPro❤       
+[NONE ][15:59:29]      26 | [BOT]           | ? |     1 |     27 | -5485,  5266 | gohan :3       
+[NONE ][15:59:29]      27 | [BOT]           | ? |     2 |     52 | -1874,  3295 | mars           
+[NONE ][15:59:29]      28 | [BOT]           | ? |     1 |  10130 |  -862, -6567 | [SACK] JRED    
+[NONE ][15:59:29]      29 | [BOT]           | ? |     2 |     48 |  1851,  1725 | Mw-Azii        
+[NONE ][15:59:29]      30 | [BOT]           | ? |     2 |    101 | -1945,  3243 | SPACESHIP      
+[NONE ][15:59:29]      31 | [BOT]           | ? |     1 |     18 | -6869,  2494 | I𝓃𝓈𝒾𝑔𝒽𝓉🐯
+[NONE ][15:59:29]      32 | [BOT]           | ? |     1 |   2611 | -3228, -2047 | RB TEAMPRO🔪   
+[NONE ][15:59:29]      33 | [BOT]           | ? |     1 |     87 |  3003, -5122 | patriarchy     
+[NONE ][15:59:29]      34 | [BOT]           | ? |     2 |     58 | -1718, -1792 | pika           
+[NONE ][15:59:29]      35 | [BOT]           | ? |     2 |     58 | -3338, -1365 | be zane fan    
+[NONE ][15:59:29]      36 | [BOT]           | ? |     4 |    121 |   700,  1437 | LA BRITANY     
+[NONE ][15:59:29]      37 | [BOT]           | ? |     3 |    105 |  1886,  1804 | Kiηg           
+[NONE ][15:59:29]      38 | [BOT]           | ? |     1 |     52 | -1152,   -43 | Can I Popsplit?
+[NONE ][15:59:29]      39 | [BOT]           | ? |     1 |     46 | -4669, -6743 | ✯✦༄Jͥυaͣnͫ✦✯   
+[NONE ][15:59:29]      40 | [BOT]           | ? |     8 |    758 |   865,  -503 | obama          
+[NONE ][15:59:29]      41 | [BOT]           | ? |     7 |    151 |  -794,   780 | ๖ۣۜZΞUS༻⚡️🔱対象⚔
+[NONE ][15:59:29]      42 | [BOT]           | ? |     2 |     37 |   490,  2284 | Knoz           
+[NONE ][15:59:29]      43 | [BOT]           | ? |     1 |    129 |  3710, -2819 | w=pro team     
+[NONE ][15:59:29]      44 | [BOT]           | ? |     8 |   1183 |   641,   540 | ༄𝓩ℜ♐𝓩ℯℯƬαα⇀燮✨
+[NONE ][15:59:29]      45 | [BOT]           | ? |     9 |    862 |   211,   622 | fat dog        
+[NONE ][15:59:29]      46 | [BOT]           | ? |     1 |     27 |   415, -2242 | ۞ɖεɴՀ㊒         
+[NONE ][15:59:29]      47 | [BOT]           | ? |     1 |     42 |  3902,  2349 | 𝓐𝓡𝐀𝐁𝐈𝐎✌  
+[NONE ][15:59:29]      48 | [BOT]           | ? |     2 |     48 |  1337,  2870 | ༄𝓩ℜ |Sнσкεя 🍎
+[NONE ][15:59:29]      49 | [BOT]           | ? |     7 |   5066 |   196,  -972 | [Zℜ]Mïguel Ü㊗一 
+[NONE ][15:59:29]      50 | [BOT]           | ? |     1 |     17 |  1786,  4570 | ζ͜͡҈Šȶ༻⇝ＳＴＲＩＣＫＳ
+[NONE ][15:59:29]      51 | [BOT]           | ? |     6 |    200 |  -135,   654 | Ŧฟ-ƬƦƠƳ ƤƠԼƖƇЄ 
+[NONE ][15:59:29]      52 | [BOT]           | ? |     1 |     19 |  1368,  4662 | ƬψƬ♛ ☤мøґ⊥αʟ   
+[NONE ][15:59:29]      53 | [BOT]           | ? |     1 |     39 | -3196,  3887 | [AG]AcadeGo    
+[NONE ][15:59:29]      54 | [BOT]           | ? |     1 |     84 |  5892,  1017 | ☢优𝓒ℓαssy雅☢    
+[NONE ][15:59:29]      55 | [BOT]           | ? |     3 |     82 |    73, -2347 | +18 ༆✬ɲͥḭɲͣɛͫ✞ץ
+[NONE ][15:59:29]      56 | [BOT]           | ? |     3 |     91 | -2122,  -397 | ❥╬βﾚ҉α҉z҉z╬╰_╯ 
+[NONE ][15:59:29]      57 | [BOT]           | ? |     2 |     43 | -3395,  1034 | тяι¢кѕρℓιтG҉o҉d
+[NONE ][15:59:29]      58 | [BOT]           | ? |     1 |     34 | -6793, -3071 | 𝓬𝓱𝓮𝓻       
+[NONE ][15:59:29]      59 | [BOT]           | ? |     9 |    570 |   -19,  -308 | ☠Team pro☠❥德   
+[NONE ][15:59:29]      60 | [BOT]           | ? |     1 |     21 | -6709,  1511 | I AM Lendario  
+[NONE ][15:59:29]      61 | [BOT]           | ? |     2 |     55 |  1582,  1967 | Look@DisDuuud  
+[NONE ][15:59:29]      62 | [BOT]           | ? |     2 |     69 |  2176,   674 | pickle         
+[NONE ][15:59:29]      63 | [BOT]           | ? |     1 |     64 |  3008, -3396 | xXKillaAlexXx  
+[NONE ][15:59:29]      64 | [BOT]           | ? |     1 |     20 |   741,  4433 | ๖ۣۜℬʉℛℊ℮ℛ༻ᴷᴵᴺᴳ 
+[NONE ][15:59:29]      65 | [BOT]           | ? |     8 |   1081 |  -714,  -462 | LoL            
+[NONE ][15:59:29]      66 | [BOT]           | ? |     1 |     48 |  6709,  3462 | 🐉👽Sιrιυѕ👽🐉 
+[NONE ][15:59:29]      67 | 127.0.0.1       | 5 |    16 |  20334 |    55,   -58 | ๖ۣۜ𝓩xxxx🐉    
+[NONE ][15:59:37] >merge 67
+[NONE ][15:59:37] ๖ۣۜ𝓩xxxx🐉 is now force merging
+[ERROR][16:00:43] [127.0.0.1:50819] Error: write ECONNABORTED
+    at Socket._writeGeneric (net.js:737:25)
+    at Socket._write (net.js:757:8)
+    at doWrite (_stream_writable.js:406:12)
+    at writeOrBuffer (_stream_writable.js:392:5)
+    at Socket.Writable.write (_stream_writable.js:290:11)
+    at Sender.sendFrame (C:\Users\Thierry Marie\Desktop\server\node_modules\ws\lib\sender.js:385:20)
+    at Sender.send (C:\Users\Thierry Marie\Desktop\server\node_modules\ws\lib\sender.js:310:12)
+    at WebSocket.send (C:\Users\Thierry Marie\Desktop\server\node_modules\ws\lib\websocket.js:393:18)
+    at PacketHandler.sendPacket (C:\Users\Thierry Marie\Desktop\server\src\PacketHandler.js:308:28)
+    at PlayerTracker.sendUpdate (C:\Users\Thierry Marie\Desktop\server\src\PlayerTracker.js:294:19)
+[NONE ][16:00:43] DISCONNECTED 127.0.0.1:50819, code: 1006, reason: "", name: "๖ۣۜ𝓩xxxx🐉"

@@ -1,0 +1,32 @@
+=== Started 2019-12-08T13-50-47-821 ===
+[INFO ][13:50:47] 418 bad words loaded
+[WARN ][13:50:47] User account "Local Administrator" disabled
+[WARN ][13:50:47] User account "Local Moderator" disabled
+[WARN ][13:50:47] User account "Local User" disabled
+[INFO ][13:50:47] 0 user records loaded.
+[INFO ][13:50:47] 0 IP ban records loaded.
+[INFO ][13:50:47] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][13:50:47] WebSocket: ws
+[INFO ][13:50:47] Started stats server on port 88
+[INFO ][13:50:47] Listening on port 443
+[INFO ][13:50:47] Current game mode is Free For All
+[NONE ][13:50:47]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][13:50:51] CONNECTED 127.0.0.1:51994, origin: "file://"
+[FATAL][13:50:51] RangeError [ERR_OUT_OF_RANGE]: The value of "value" is out of range. It must be >= 0 and <= 4294967295. Received -546
+    at checkInt (internal/buffer.js:58:11)
+    at writeU_Int32LE (internal/buffer.js:678:3)
+    at Buffer.writeUInt32LE (internal/buffer.js:691:10)
+    at BinaryWriter.writeUInt32 (C:\Users\66\Desktop\Новая папка (9)\src\packet\BinaryWriter.js:32:18)
+    at UpdateNodes.writeUpdateItems5 (C:\Users\66\Desktop\Новая папка (9)\src\packet\UpdateNodes.js:150:16)
+    at UpdateNodes.build (C:\Users\66\Desktop\Новая папка (9)\src\packet\UpdateNodes.js:20:34)
+    at PacketHandler.sendPacket (C:\Users\66\Desktop\Новая папка (9)\src\PacketHandler.js:307:29)
+    at PlayerTracker.sendUpdate (C:\Users\66\Desktop\Новая папка (9)\src\PlayerTracker.js:294:19)
+    at GameServer.updateClients (C:\Users\66\Desktop\Новая папка (9)\src\GameServer.js:457:39)
+    at GameServer.mainLoop (C:\Users\66\Desktop\Новая папка (9)\src\GameServer.js:660:10)
+[DEBUG][13:50:51] process.exit(1)
+=== Shutdown 2019-12-08T13-50-51-704 ===
