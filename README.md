@@ -7,3 +7,4 @@
 
 4.LOCALHOST http://agarvaii.xyz/
 
+if you want to play with friends you can enter the "free 100 bots" mode
