@@ -140,7 +140,7 @@ function GameServer() {
         minionCollideTeam: 0, //Determines whether minions colide with their team in the Teams gamemode (0 = OFF, 1 = ON)
         disableERTP: 1, // Whether or not to disable ERTP controls for minions. (must use ERTPcontrol script in /scripts) (Set to 0 to enable)
         disableQ: 0, // Whether or not to disable Q controls for minions. (Set 0 to enable)
-        serverMinions: 130, // Amount of minions each player gets once they spawn
+        serverMinions: 250, // Amount of minions each player gets once they spawn
         collectPellets: 0, // Enable collect pellets mode. To use just press P or Q. (Warning: this disables Q controls, so make sure that disableERT is 0)
         defaultName: "agarvaii.xyz", // Default name for all minions if name is not specified using command (put <r> before the name for random skins!)
         minionsOnLeaderboard: 0, // Whether or not to show minions on the leaderboard. (Set 0 to disable)
