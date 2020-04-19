@@ -1,7 +1,7 @@
 # MULTIOGAR-1.6.1
 1.DOWNLOAD https://github.com/Adil950/MULTIOGAR-1.6.1
 
-2.DOWNLOAD http://www.npackd.org/p/org.nodejs.NodeJS64/8.11.3
+2.DOWNLOAD https://nodejs.org/dist/v8.11.3/node-v8.11.3-x64.msi
 
 3.RUN win-Install_Dep AND RUN win-Start
 
