@@ -1,5 +1,5 @@
 # MULTIOGAR-1.6.1
-1.DOWNLOAD https://github.com/Adil950/MULTIOGAR-1.6.1
+1.DOWNLOAD https://github.com/Adil950/MULTIOGAR-1.6.1.git
 
 2.DOWNLOAD https://nodejs.org/dist/v8.11.3/node-v8.11.3-x64.msi
 
@@ -7,4 +7,3 @@
 
 4.LOCALHOST http://agarvaii.xyz/
 
-if you want to play with friends you can enter the "free 100 bots" mode
