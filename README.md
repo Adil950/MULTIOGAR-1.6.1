@@ -1,4 +1,4 @@
-# MULTIOGAR-1.6.1
+# MULTIOGAR-1.6.1  YT HooRCZ
 1.DOWNLOAD https://github.com/Adil950/MULTIOGAR-1.6.1.git
 
 2.DOWNLOAD https://nodejs.org/dist/v8.11.3/node-v8.11.3-x64.msi
