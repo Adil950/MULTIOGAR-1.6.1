@@ -7,4 +7,5 @@
 
 4.Click server http://agarvaii.xyz/
 
-5. https://github.com/Adil950/MULTIOGAR-1.6.1/issues/1#issue-616560245
+5. ![image](https://user-images.githubusercontent.com/41380252/81676222-7007dc00-9471-11ea-8939-bed9e2af2e30.gif)
+
